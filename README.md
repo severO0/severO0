@@ -26,6 +26,7 @@ Atuo no desenvolvimento de sistemas corporativos utilizando o ecossistema .NET, 
 ### Linguagens
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
