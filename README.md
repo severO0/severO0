@@ -1,18 +1,97 @@
-# 💫 About Me:
-Desenvolvimento de soluções em .NET, automações RPA de alta performance e aplicações escaláveis focadas em estabilidade e segurança.<br><br>🤝 I’m looking to collaborate on<br><br>Projetos de Back-End, integrações complexas, automação de processos, engenharia de software e boas práticas de arquitetura.<br><br>🧠 I’m looking for help with<br><br>Padrões avançados de arquitetura, segurança ofensiva/defensiva e práticas modernas de DevOps.<br><br>🌱 I’m currently learning<br><br>Aprofundando conceitos de Orientação a Objetos, princípios SOLID, Clean Code, segurança da informação, microsserviços e design de arquiteturas escaláveis.<br><br>💬 Ask me about<br><br>Automação com Selenium/RPA, .NET, C#, VB.NET, arquitetura de APIs, segurança, SQL, otimização de processos, boas práticas e escalabilidade.<br><br><🛠️ Stacks & Ferramentas<br><br>C#, .NET, ASP.NET Core, Java<br><br>SQL Server, PostgreSQL, MongoDB, InfluxDB<br><br>Selenium, Puppeteer, RPA, WebView <br><br>Docker, Linux, DevOps básico, Spring<br><br>OAuth2, JWT, criptografia e segurança<br><br>🧩 Arquiteturas e Soluções<br><br>Adoção de padrões (Strategy, Factory, Mediator, etc.)<br><br>Foco em escalabilidade e manutenção<br><br>Boas práticas (Clean Code, SOLID, testes, logs)<br><br>📊 GitHub Stats / Badges<br><br>GitHub Stats<br><br>Linguagens mais usadas:<br>C#, VB.NET, Java<br><br>Badges de tecnologias<br><br>Segurança da Informação<br><br>Arquitetura de Software<br><br>Cloud (AWS/Azure)<br><br>CI/CD<br><br>Microsserviços<br><br>
+# 👨‍💻 Walace Lopes Correa Junior
 
+### Software Engineer | .NET Developer | Automation Specialist
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walace-lopes-jr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walace0712@gmail.com) 
+Desenvolvedor de Software com foco em aplicações Back-End, automação de processos e arquitetura de soluções escaláveis.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=severO0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=severO0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=severO0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Atuo no desenvolvimento de sistemas corporativos utilizando o ecossistema .NET, construção de APIs robustas, integrações entre plataformas e automações de alta performance. Tenho interesse especial por arquitetura de software, boas práticas de engenharia, segurança da informação e otimização de processos.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=severO0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Áreas de Atuação
+
+* Desenvolvimento Back-End com .NET e ASP.NET Core
+* Arquitetura de APIs REST
+* Automação de Processos (RPA)
+* Integrações entre sistemas
+* Bancos de Dados Relacionais e NoSQL
+* Microsserviços e Sistemas Distribuídos
+* Segurança de Aplicações
+* Boas Práticas de Engenharia de Software
+
+---
+
+## 💼 Tecnologias Principais
+
+### Linguagens
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Back-End
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+
+### Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge\&logo=influxdb\&logoColor=white)
+
+### Automação e Testes
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge\&logo=puppeteer\&logoColor=black)
+
+### DevOps e Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
+## 🏗️ Princípios e Arquitetura
+
+* SOLID
+* Clean Code
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* Design Patterns
+* Testabilidade e Observabilidade
+* APIs Seguras com OAuth2 e JWT
+* Microsserviços e Mensageria
+
+---
+
+## 📚 Atualmente Estudando
+
+* Arquiteturas Distribuídas
+* Engenharia de Software Avançada
+* Segurança Ofensiva e Defensiva
+* Microsserviços
+* Cloud Computing (AWS e Azure)
+* DevOps e Observabilidade
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/walace-lopes-jr)
+
+📧 **Email:** [walace0712@gmail.com](mailto:walace0712@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=severO0\&show_icons=true\&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=severO0\&layout=compact\&theme=dark)
+
+![](https://nirzak-streak-stats.vercel.app/?user=severO0\&theme=dark)
